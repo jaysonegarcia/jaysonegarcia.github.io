@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://hallowichig0.github.io
+Host: https://jaysonegarcia.github.io
 
 # Sitemaps
-Sitemap: https://hallowichig0.github.io/sitemap.xml
+Sitemap: https://jaysonegarcia.github.io/sitemap.xml
