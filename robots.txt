@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://jaysonegarcia.github.io
-
-# Sitemaps
-Sitemap: https://jaysonegarcia.github.io/sitemap.xml
